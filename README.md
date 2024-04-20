@@ -1,3 +1,5 @@
+[中文简体版](https://github.com/gvzgithub/u0e51-Operations-Calculater/blob/main/README-zh-cn.md)
+
 Operation๑ is an operation defined by me.
 
 
