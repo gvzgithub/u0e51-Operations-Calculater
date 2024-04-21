@@ -10,3 +10,19 @@ You can submit suggestions in issues
 
 (Currently only available in Chinese)
 
+-------------
+Update Log
+
+v1.0.1  (UTC+8 2024/04/21 10:45) Modify the error for non-numeric inputs
+
+v1.0.0  (UTC+8 2024/04/20 21:55) Create Warehouse
+
+
+
+
+
+
+
+
+
+
