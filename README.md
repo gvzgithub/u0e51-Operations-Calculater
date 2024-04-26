@@ -8,10 +8,11 @@ The number pair (x,y) can be obtained by operation๑๑ as number pair (x',y'),
 
 You can submit suggestions in issues
 
-(Currently only available in Chinese)
-
 -------------
 Update Log
+
+v1.0.2  (UTC+8 2024/04/26 21:57) Add bilingual support
+
 
 v1.0.1  (UTC+8 2024/04/21 10:45) Modify the error for non-numeric inputs
 
