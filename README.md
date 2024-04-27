@@ -11,8 +11,9 @@ You can submit suggestions in issues
 -------------
 Update Log
 
-v1.0.2  (UTC+8 2024/04/26 21:57) Add bilingual support
+v1.0.5 (UTC+8 2024/04/27 19:51) See introduction to v1.0.3~v1.0.5 in releases
 
+v1.0.2  (UTC+8 2024/04/26 21:57) Add bilingual support
 
 v1.0.1  (UTC+8 2024/04/21 10:45) Modify the error for non-numeric inputs
 
