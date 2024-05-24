@@ -3,13 +3,22 @@
 Operation๑ is an operation defined by me.
 
 
-The number pair (x,y) can be obtained by operation๑ as number pair (x',y'), written as ๑ (x,y)=(x',y'), where x'=ax+by, y'=ax-by, (a,b are constants)
+The number pair (x,y) can be obtained by operation๑ as number pair (x',y'), written as ๑(/u0e51 in unicode) (x,y)=(x',y'), where x'=ax+by, y'=ax-by, (a,b are constants)
 
 
 You can submit suggestions in issues
 
+Note: Due to a mistake on my part, the source packaged files downloaded in realeases are out of sync. Please download the calculator and use the Edit Source function to solve it (from v1.0.6 version has been noted)
+
+Since I've been diving into C++ lately, this project has gone into a slow-maintenance phase:(
+
 -------------
 Update Log
+
+Future updates are planned:
+More language support;
+Graphical pages;
+......
 
 v1.0.6 (UTC+8 2024/04/30 21:42) Turning .py files into .exe files
 
